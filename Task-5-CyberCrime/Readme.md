@@ -1,1 +1,3 @@
-
+While researching cybercrime, what stood out most was how simple tactics can lead to significant financial loss. Many scams rely not on technical hacking but on manipulating human behavior, especially lack of awareness. The fact that entering a UPI PIN always authorizes payment is widely misunderstood, making users vulnerable.
+This highlights that cybersecurity is not only about technology but also about user education. Even well-educated individuals can fall victim if they are unaware of basic digital safety practices.
+As a result of this research, one habit I will change is being more cautious before approving any online transaction or clicking unknown links. I will also make sure to educate peers and family members about safe digital practices to reduce the risk of cyber fraud.
