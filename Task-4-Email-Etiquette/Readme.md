@@ -1,1 +1,4 @@
+Poor digital communication can lead to serious misunderstandings and consequences. For example, a student once sent an email to a professor using informal language and unclear wording, which came across as disrespectful. As a result, the professor denied the student’s request and also warned them about maintaining professionalism.
+This situation could have been avoided by using a proper subject line, formal greeting, clear explanation, and respectful tone. Digital communication lacks non-verbal cues, so clarity and professionalism become even more important.
+Using structured emails, proofreading messages, and maintaining polite language ensures that the intended message is conveyed correctly and positively received. Proper digital etiquette helps build credibility and avoids unnecessary conflicts.
 
