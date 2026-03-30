@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Kritika Aryan</h1>
+<h1 align="center">Hi , I'm KRITIKA ARYAN </h1>
 <h6 align="center">A passionate Coding enthusiast from India, with a strong foundation in basics of coding, circuit design, embedded systems, hardware-software integration and Machine Learning</h6><br><br>
 
-<h2>💫 About Me:</h2>
+<h2>ABOUT ME :</h2>
 <br>
 🎓 1st-year undergraduate student pursuing B. Tech in Computer Science and Engineering.<br><br>
 🏫 Studying at VIT University.<br><br>
